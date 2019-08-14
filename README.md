@@ -1,16 +1,11 @@
 # i_am_rich
 
-A not for everyone App
+A Flutter-Dart version of "I am rich" App
 
-## Getting Started
+## About this App
 
-This project is a starting point for a Flutter application.
+This App isn't for everyone!!
 
-A few resources to get you started if this is your first Flutter project:
+If you own this App then it means that you are a very rich individual. So you can... and you should, show off about it!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Go let the world know !!
