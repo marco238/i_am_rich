@@ -11,9 +11,8 @@ void main() {
         backgroundColor: Colors.blueGrey,
         body: Center(
           child: Image(
-            image: NetworkImage(
-                'https://www.stickpng.com/assets/images/580b585b2edbce24c47b23f2.png'),
-            width: 200,
+            image: AssetImage('images/diamond.png'),
+            width: 300,
           ),
         ),
       ),
